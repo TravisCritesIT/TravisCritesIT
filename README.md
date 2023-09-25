@@ -1,4 +1,4 @@
-<h1>Greetings, I'm Travis, an <a href="https://linkedin.com/in/travis-crites">IT Professional</a>☺</h1>
+<h1>Greetings, Traveler. I'm Travis.</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
