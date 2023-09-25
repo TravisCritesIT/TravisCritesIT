@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TravisCritesIT/azure-network-protocols)
 
 
-<h2>👨‍💻 Coding Projects:</h2>
+<h2>👨‍💻 Certifications:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/TravisCritesIT/osticket-prereqs)
